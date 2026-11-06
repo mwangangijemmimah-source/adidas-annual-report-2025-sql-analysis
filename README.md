@@ -44,11 +44,6 @@ Raw figures load into text-only staging tables, a `clean_num()` function convert
 
 Segment net sales plus HQ/Consolidation reconcile to group net sales (a gap of EUR 51m in 2025 and EUR 31m in 2024 against EUR 32m reported, which is rounding). Operating margins recalculated from Note 36 matched the margins reported in the Financial Review for all 12 segment-year pairs.
 
-## How to run
-
-1. Create a PostgreSQL database.
-2. Run the files in `sql/` in numerical order.
-3. Run individual queries from `04_analysis_queries.sql`.
 
 ## Limitations
 
