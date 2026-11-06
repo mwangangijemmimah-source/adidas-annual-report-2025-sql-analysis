@@ -54,10 +54,6 @@ Segment net sales plus HQ/Consolidation reconcile to group net sales (a gap of E
 
 The 2025 report contains 2025 and 2024 only, so results are a one-year comparison and not a trend; a multi-year compound growth rate needs 2023 from the 2024 report. Published growth percentages are rounded to whole numbers. Channel figures were keyed manually from the report's income statement page. All euro figures are reported figures and include currency effects.
 
-## Next steps
-
-Add 2023 from the 2024 annual report, add the footwear, apparel and accessories split by region, and test whether margin changes follow operating expense growth.
-
 ## Disclaimer
 
 This is an independent educational project and is not affiliated with adidas AG. It is not financial advice.
