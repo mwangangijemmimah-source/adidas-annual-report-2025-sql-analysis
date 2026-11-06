@@ -62,6 +62,3 @@ Add 2023 from the 2024 annual report, add the footwear, apparel and accessories 
 
 This is an independent educational project and is not affiliated with adidas AG. It is not financial advice.
 
-## Author
-
-[Your name] | [LinkedIn profile link]
